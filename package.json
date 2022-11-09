@@ -38,7 +38,7 @@
     "jest": "^26.1.0",
     "loaders.css": "^0.1.2",
     "mapbox-gl": "^1.11.0",
-    "next": "^9.3.2",
+    "next": "^13.0.2",
     "next-routes": "^1.4.2",
     "nodemon": "^1.18.7",
     "npm-merge-driver": "^2.3.5",
